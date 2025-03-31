@@ -1,0 +1,15 @@
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/bin/Debug/net7.0/BankAccount
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/bin/Debug/net7.0/BankAccount.deps.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/bin/Debug/net7.0/BankAccount.runtimeconfig.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/bin/Debug/net7.0/BankAccount.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/bin/Debug/net7.0/BankAccount.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.csproj.AssemblyReference.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfoInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfo.cs
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/refint/BankAccount.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/BankAccount.genruntimeconfig.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/Debug/net7.0/ref/BankAccount.dll

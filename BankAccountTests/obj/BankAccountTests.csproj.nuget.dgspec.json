@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccountTests/BankAccountTests.csproj": {}
+  },
+  "projects": {
+    "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/BankAccount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/BankAccount.csproj",
+        "projectName": "BankAccount",
+        "projectPath": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/BankAccount.csproj",
+        "packagesPath": "/Users/mrdokki/.nuget/packages/",
+        "outputPath": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mrdokki/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccountTests/BankAccountTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccountTests/BankAccountTests.csproj",
+        "projectName": "BankAccountTests",
+        "projectPath": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccountTests/BankAccountTests.csproj",
+        "packagesPath": "/Users/mrdokki/.nuget/packages/",
+        "outputPath": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccountTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mrdokki/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/BankAccount.csproj": {
+                "projectPath": "/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/6ПР/BankAccount/BankAccount.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
