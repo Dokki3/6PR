@@ -1,6 +1,6 @@
 #Вывод до исправления
 
-''' Bash
+``` Bash
 Test result debit
         false | 7,44 | 16,54 | 0,001 | Account not debited correctly | 
 
@@ -23,13 +23,13 @@ Actual value was -100. |
 
 Credit_Negative_Message
         True | True | True | Wrong exception message for negative credit |
-'''
+```
 
 1 тест false 
 
 #Вывод после исправления
 
-''' Bash
+``` Bash
 Test result debit
         True | 7,44 | 7,44 | 0,001 | Account not debited correctly | 
 
@@ -52,5 +52,5 @@ Actual value was -100. |
 
 Credit_Negative_Message
         True | True | True | Wrong exception message for negative credit | 
-        '''
+```
 все тесты True
