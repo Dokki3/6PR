@@ -163,7 +163,7 @@ namespace BankAccountTests {
             // Arrange
             double beginningBalance = 11.99;
             double creditAmount = 4.55;
-            double expected = 7.44;
+            double expected = 16.54;
             BankAccount.BankAccount account = new BankAccount.BankAccount("Mr. Roman Abramovich", beginningBalance);
 
             // Act

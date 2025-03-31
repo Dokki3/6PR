@@ -32,7 +32,7 @@ namespace BankAccount
             if (amount < 0) {
                 throw new ArgumentOutOfRangeException("amount", amount, DebitAmountLessThanZeroMessage);
             }
-            m_balance += amount; // Оставляем ошибку!
+            m_balance -= amount; // Оставляем ошибку!
         }
 
         public void Credit(double amount) {
